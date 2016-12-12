@@ -1,0 +1,29 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ElectroMagPCB
+*Date=15:43:54
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;6.99829;-50.2825;0;Bottom;J6
+2;;THT;22.2383;-32.5025;0;Bottom;J1
+3;;THT;7.50629;-35.9595;0;Bottom;J5
+4;;THT;17.1583;-22.3425;0;Bottom;J8
+5;;;4.63114;-13.1688;0;Bottom;TXT1
+6;;THT;12.0783;-19.8025;0;Bottom;J4
+7;;THT;4.96629;-20.7196;0;Bottom;J3
+8;;THT;14.6183;-17.2625;0;Bottom;J7
+9;;THT;37.4783;-32.5025;0;Bottom;J2
+10;;THT;45.0983;-38.8525;180;Bottom;J10
+11;;THT;29.8583;-7.10255;-90;Bottom;J9
+12;220;THT;29.8583;-50.2825;90;Bottom;R2
+13;220;THT;45.0983;-47.7425;-90;Bottom;R1
+14;;300 mil [THT];12.0783;-36.3379;-90;Bottom;D1
